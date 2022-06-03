@@ -1,0 +1,26 @@
+# FILE-CRACK
+
+FREE FILE CRACKER TOOL 
+
+ALL CREDIT GOES TO MR.ERROR (AZIM VAU) ‼️
+
+BEST FILE CRACKER TOOL FOR OK IDS 
+
+
+
+COMMAND ❗👇
+
+git clone 
+
+
+
+
+https://github.com/devil-sakib/FILE-CRACK
+
+cd FILE-CRACK
+
+python2 C-file.py
+
+
+
+👽 ENJOY FREE TOOL 👽
