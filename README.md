@@ -10,12 +10,7 @@ BEST FILE CRACKER TOOL FOR OK IDS
 
 COMMAND ❗👇
 
-git clone 
-
-
-
-
-https://github.com/devil-sakib/FILE-CRACK
+git clone https://github.com/devil-sakib/FILE-CRACK
 
 cd FILE-CRACK
 
